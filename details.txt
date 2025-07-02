@@ -1,0 +1,28 @@
+day1 
+int the backend folder 
+npm init -y
+npm i express@5.1.0 mongoose@8.16.0 dotenv@16.5.0 cors@2.8.5
+npm install @clerk/express@1.7.0 @arcjet/node@1.0.0-beta.8 @arcjet/inspect@1.0.0-beta.8
+
+int package.json add 
+     "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js"
+  },
+  "keywords": [],
+  "type": "module",
+
+now in the mobile folder 
+npx create-expo-app@latest . 
+rm -rf .git 
+
+
+
+noise then filter 
+frequency filter etc 
+salt and pepper noise 
+how did u sharpe the image what filter is that 
+
+sobel edge detection 
+
+histogram matching 
